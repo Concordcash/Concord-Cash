@@ -1,4 +1,5 @@
-// Copyright (c) 2012-2016, The CryptoNote developers, The Bytecoin developers, The Karbowanec developers
+// Copyright (c) 2012-2019, The CryptoNote developers, The Bytecoin developers, The Karbowanec developers, The Arto Developers
+// Copyright (c) 2021, Concord Developers
 //
 // This file is part of Bytecoin.
 //
